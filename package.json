@@ -1,6 +1,6 @@
 {
-  "name": "image-to-text-next.js",
-  "version": "0.1.0",
+  "name": "next-js-ecommerce",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,6 +12,7 @@
     "@types/node": "^20.8.3",
     "@types/react": "^18.2.25",
     "autoprefixer": "10.4.14",
+    "daisyui": "^3.9.2",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
     "mongoose": "^7.0.3",
@@ -19,6 +20,7 @@
     "next-auth": "^4.22.0",
     "next-connect": "^0.13.0",
     "postcss": "8.4.21",
+    "prisma": "^5.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.1",
