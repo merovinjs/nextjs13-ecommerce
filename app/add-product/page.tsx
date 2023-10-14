@@ -32,7 +32,7 @@ redirect("/")
 
 const AddProducts = () => {
   return <div >
-    <h1 className="mb-3 text-lg font-bold">Add Products</h1>
+    <h1 className="mb-3 text-lg font-bold">Add Product</h1>
     <form action={addProduct}>
       <input type="text"
       placeholder="Product Name"
