@@ -46,7 +46,7 @@ const AddProducts = () => {
     <input type="url" name="imageUrl" placeholder="Image url" className="input input-bordered mb-3 w-full " />
     <input name="price" type="number" placeholder="Price" className="input input-bordered mb-3 w-full" />
 
-    <button className="btn btn-primary btn-block" type="submit">Add Product</button>
+    <button className="btn btn-primary btn-block" type="submit">Add Producct</button>
     </form>
   </div>;
 };
